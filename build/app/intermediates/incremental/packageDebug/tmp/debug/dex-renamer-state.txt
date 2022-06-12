@@ -1,0 +1,4 @@
+#Sun May 29 20:00:31 NPT 2022
+base.0=D\:\\flutter\\Sprint_1\\sprint_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
